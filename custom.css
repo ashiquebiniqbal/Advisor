@@ -23,7 +23,7 @@ footer {
 
 .jumbotron {
 	text-align: center;
-	background-image: url('../images/back_law.jpg');
+	background-image: url('/law/back_law.jpg');
 	color: white;
 }
 
